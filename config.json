@@ -1,0 +1,7 @@
+{
+  "tokenOptions": {
+    "issuer": "Joker Corporation",
+    "audience": "http://jokercorp.com",
+    "expiresIn": "12h"
+  }
+}
